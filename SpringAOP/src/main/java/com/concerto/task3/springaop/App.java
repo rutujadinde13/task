@@ -16,10 +16,7 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import com.concerto.task3.springaop.entity.Book;
 import com.concerto.task3.springaop.service.BookService;
 
-/**
- * Hello world!
- *
- */
+//this is my main class
 
 @Configuration
 @ComponentScan
